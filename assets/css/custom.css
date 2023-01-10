@@ -1,0 +1,53 @@
+.btn-pink{
+    background-color: #f54748;
+}
+
+.text-pink{
+    color: #f54748;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    text-transform: none;
+    color: #000;
+}
+
+.bg-abu{
+    background-color: #d1d1d1 !important;
+}
+
+.search-header input {
+    border-radius:0px 5px 5px 0px;
+    border: 1px solid #727272;
+    color: #000;
+}
+
+.search-header button.btn-style {
+    border-radius:0px 5px 5px 0px;
+}
+
+.border-end {
+    border-right: 1px solid #727272 !important;
+}
+
+.hero-content h1{
+    max-width: none;
+}
+
+.hero-content p{
+    text-transform: capitalize;
+    background: none;
+    font-size: 20pt;
+    font-weight: normal;
+}
+
+.btn-style{
+    border-radius:5px;
+}
+.btn-style {
+    padding: 10px 20px;
+}
+
+.scroll-news{
+    height: 500px; 
+    overflow:auto ;
+}
